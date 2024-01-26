@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <web-app>
+	<servlet>
+		<servlet-name>HelloServletMapping</servlet-name>
+		<servlet-class>web_basic.HelloServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>HelloServletMapping</servlet-name>
+		<url-pattern>/HelloServlet</url-pattern>
+	</servlet-mapping>
+</web-app> -->
+
+<!-- <web-app>
+<servlet>
+	<servlet-name>UseForwardServlet1Mapping</servlet-name>
+	<servlet-class>web_basic.UseForwardServlet1</servlet-class>
+</servlet> 
+<servlet-mapping>
+	<servlet-name>UseForwardServlet1Mapping</servlet-name>
+	<url-pattern>/UseForwardServlet1</url-pattern>
+</servlet-mapping>
+</web-app> -->
+
+<!-- <web-app>
+<servlet>
+	<servlet-name>UseForwardServlet2Mapping</servlet-name>
+	<servlet-class>web_basic.UseForwardServlet2</servlet-class>
+</servlet> 
+<servlet-mapping>
+	<servlet-name>UseForwardServlet2Mapping</servlet-name>
+	<url-pattern>/UseForwardServlet2</url-pattern>
+</servlet-mapping>
+</web-app> -->
+
+<web-app>
+<servlet>
+	<servlet-name>UseRequestServlet1Mapping</servlet-name>
+	<servlet-class>web_basic.UseRequestServlet1</servlet-class>
+</servlet> 
+<servlet-mapping>
+	<servlet-name>UseRequestServlet1Mapping</servlet-name>
+	<url-pattern>/UseRequestServlet1</url-pattern>
+</servlet-mapping>
+</web-app>
